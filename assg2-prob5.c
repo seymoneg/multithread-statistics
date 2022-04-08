@@ -1,7 +1,7 @@
 /*
 3000 assignment 2, problem 5
 Use multithreads to run statistics on a list of numbers
-Authors: Seymone Gugneja, Shannen Geller, Austin Yarbray
+Author: Seymone Gugneja
 */
 
 // preliminaries: imports and initialize variables
