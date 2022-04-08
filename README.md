@@ -1,0 +1,1 @@
+The purpose of this assignment was to write a multithreaded program that calculates various statistical values for a list of numbers. The user chooses the amount of numbers that they want to use and then input the numbers. The algorithm then calculates the average, minimum, and maximum of the numbers inputted.
